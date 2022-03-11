@@ -1,7 +1,13 @@
 [package]
 name = "thread_reviver"
 version = "0.1.0"
+authors = ["Max Heaton <dh64784@gmail.com>"]
 edition = "2021"
+description = "A Discord bot to revive any archived threads (to counter Discord's auto-archive function)."
+readme = "README.md"
+repository = "https://github.com/Lyrenhex/ThreadReviver"
+license = "MIT OR Apache-2.0"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
