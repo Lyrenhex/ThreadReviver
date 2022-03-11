@@ -10,11 +10,11 @@ This bot functions by automatically sending a message to any threads which archi
 ## Usage instructions
 
 1. Install the bot: `cargo install thread_reviver`
-  - Alternatively, build it yourself with `cargo build`
+    - Alternatively, build it yourself with `cargo build`
 2. Create a bot on the [Discord Developer Portal]
 3. Set the `THREADREVIVER_DISCORD_TOKEN` environment variable
 4. Invite the bot to your server
-  - You'll need to create an invitation link for this; see [Discord's documentation][Discord Developer Portal].
+    - You'll need to create an invitation link for this; see [Discord's documentation][Discord Developer Portal].
 5. Run the bot.
 
 
