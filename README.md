@@ -7,6 +7,12 @@ This bot functions by automatically sending a message to any threads which archi
 
 - `THREADREVIVER_DISCORD_TOKEN`: a bot token from the [Discord Developer Portal]
 
+## Discord permissions
+
+The bot requires the `MANAGE_THREADS` Discord permission to operate. Any channels it does not have this permission for will not be revivable by the bot, and these will be printed to `STDERR` at runtime to assist with permissions management.
+
+Note that version `0.1.0` required `SEND_MESSAGES_IN_THREADS` instead, so your bot may no longer be setup correctly -- do check! (This permission is also no longer required.)
+
 ## Usage instructions
 
 1. Install the bot: `cargo install thread_reviver`
