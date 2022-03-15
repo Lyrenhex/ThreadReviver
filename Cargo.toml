@@ -1,6 +1,6 @@
 [package]
 name = "thread_reviver"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Max Heaton <dh64784@gmail.com>"]
 edition = "2021"
 description = "A Discord bot to revive any archived threads (to counter Discord's auto-archive function)."
