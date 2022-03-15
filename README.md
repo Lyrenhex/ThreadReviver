@@ -1,8 +1,6 @@
 # ThreadReviver
 A Discord bot to revive any archived threads (to counter Discord's auto-archive function).
 
-This bot functions by automatically sending a message to any threads which archive whilst the bot is running (which it can see), and immediately attempts to delete the message afterwards.
-
 ## Environment variables
 
 - `THREADREVIVER_DISCORD_TOKEN`: a bot token from the [Discord Developer Portal]
