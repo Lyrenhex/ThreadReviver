@@ -1,6 +1,8 @@
 # ThreadReviver
 A Discord bot to revive any archived threads (to counter Discord's auto-archive function).
 
+> This has been superseded by [Loki](https://github.com/Lyrenhex/Loki).
+
 ## Environment variables
 
 - `THREADREVIVER_DISCORD_TOKEN`: a bot token from the [Discord Developer Portal]
